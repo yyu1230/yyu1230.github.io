@@ -1,2 +1,2 @@
-# yyu1230.github.io
-personal site
+# Personal Site
+https://yyu1230.github.io/
